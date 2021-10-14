@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KiZzi5kYikmDpX3RDaXy/7eQ4HAuRcuq/ewvdlUWKPG04OAiJiM61qJY+0k8sUwNihAf8aWb9hQzuvioaS35jQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danme\\OneDrive\\Desktop\\app-web-gestor\\api\\ApiGestor\\ApiGestor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danme\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\danme\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2\\microsoft.identitymodel.jsonwebtokens.6.12.2.nupkg.sha512",
+    "C:\\Users\\danme\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\microsoft.identitymodel.logging.6.12.2.nupkg.sha512",
+    "C:\\Users\\danme\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\microsoft.identitymodel.tokens.6.12.2.nupkg.sha512",
+    "C:\\Users\\danme\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2\\system.identitymodel.tokens.jwt.6.12.2.nupkg.sha512",
+    "C:\\Users\\danme\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
