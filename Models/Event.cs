@@ -17,10 +17,9 @@ namespace ApiGestor.Models
 
         public string Place { get; set; }
 
-        public int UserID { get; set; }
+        public int[] UserID { get; set; }
 
 
-       
     }
 
 

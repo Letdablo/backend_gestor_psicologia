@@ -16,12 +16,8 @@ namespace ApiGestor.Controllers
     {
 
         private EventServices eventServices = new EventServices();
-        private readonly ILogger<WeatherForecastController> _logger;
+   
 
-        public EventControler(ILogger<WeatherForecastController> logger)
-        {
-            _logger = logger;
-        }
         [Authorize]
         [HttpPost]
         public IEnumerable<Event> Post(EventsRequest model )

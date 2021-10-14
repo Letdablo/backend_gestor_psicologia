@@ -16,12 +16,7 @@ namespace ApiGestor.Controllers
     {
 
         private PacienteService pacienteServices = new PacienteService();
-        private readonly ILogger<WeatherForecastController> _logger;
 
-        public PacientesControles(ILogger<WeatherForecastController> logger)
-        {
-            _logger = logger;
-        }
         [Authorize]
         [HttpGet]
 
